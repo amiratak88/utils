@@ -1,7 +1,7 @@
 {
   "name": "@akxx/utils",
   "type": "module",
-  "version": "1.1.0",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "Amirata Khodaparast <amiratak88@gmail.com>",
   "license": "MIT",
