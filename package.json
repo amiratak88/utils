@@ -5,5 +5,9 @@
   "main": "index.js",
   "author": "Amirata Khodaparast <amiratak88@gmail.com>",
   "license": "MIT",
-  "description": "Collection of personal utility functions"
+  "description": "Collection of personal utility functions",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  }
 }
